@@ -3,7 +3,8 @@
 
 Directories are discussed in work chronological order; detailed notes are in directory README.md files.  
 
-pdf_deepseek_tutorial: notes and comments on LangChain document load (PDF) tutorial
+pdf_deepseek_tutorial
+- notes and comments on LangChain document load (PDF) tutorial
 
 react_agents_chris_hay
 - discusses and illustrates the thought, action, observation processing of the ReAct agent design
