@@ -1,7 +1,8 @@
 ## Supervisor agent/worker agent project ##
 (in progress 2/26/2025)
 
-Directories are discussed in work chronological order; detailed notes are in directory README.md files.
+Directories are discussed in work chronological order; detailed notes are in directory README.md files.  
+
 pdf_deepseek_tutorial: notes and comments on LangChain document load (PDF) tutorial
 
 react_agents_chris_hay
