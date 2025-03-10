@@ -25,6 +25,10 @@
 - simple agent/tool tests in LangChain
 - tavily_test.py: uses langchain_community tool to search the web
 - wikipedia_test.py: uses custom tool to search Wikipedia
+- pdf_query_test directory
+  - pdf_query_agent_save_db.py: code for agent to quey PDF
+  - pdf_query_agent_main.py: simple test for pdf_query_agent_save_db.py
+  - Employee Handbook (Sears).pdf: PDF for testing; must be in 'data' subdirectory
 
 ### supervisor_worker_design_URLs ###
 - examples_design_sources.md
