@@ -1,7 +1,7 @@
 # Supervisor agent/worker agent project #
 (in progress 3/3/2025)
 
-<i>Directories are discussed in chronological order of work; detailed notes are in README.md files in each directroy.</i>
+<i>Directories are discussed in chronological order of work; detailed notes are in README.md files in each directory.</i>
 
 ### react_agents_chris_hay ###
 - discusses and illustrates the thought, action, observation processing of the ReAct agent design
@@ -36,6 +36,10 @@
   - notes on specific implementations
 - Supervisor-worker agent design.docx
 - ChatGPT Deep Research paper
+
+### pdf_deepseek_Rishab ###
+- notes and comments on LangChain document load (PDF) tutorial
+- pdf_query_agents developed from this code (see agent_tests > pdf_query_test directory
   
 ### LangGraph ###
 - initial work in LangGraph
@@ -44,5 +48,4 @@
 
 
 
-### pdf_deepseek_Rishab ###
-- notes and comments on LangChain document load (PDF) tutorial
+
