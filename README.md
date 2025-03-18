@@ -35,7 +35,14 @@
   - sites that discuss the supervisor agent/worker agent design.
   - notes on specific implementations
 - Supervisor-worker agent design.docx
-  - ChatGPT Deep Research paper
+- ChatGPT Deep Research paper
+  
+### LangGraph ###
+- initial work in LangGraph
+- seven scripts, from very simple to conditional edge and simplified state management
+- more complex scripts deviated from tutorial: different tool (weather), discontinued prebuilts 
+
+
 
 ### pdf_deepseek_Rishab ###
 - notes and comments on LangChain document load (PDF) tutorial
