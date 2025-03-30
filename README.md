@@ -40,10 +40,10 @@
 - notes and comments on LangChain document load (PDF) tutorial
 - pdf_query_agents developed from this code (see agent_tests > pdf_query_test directory
   
-### LangGraph ###
+### Beginning LangGraph ###
 - initial work in LangGraph
 - seven scripts, from very simple to conditional edge and simplified state management
-- more complex scripts deviated from tutorial: different tool (weather), discontinued prebuilts 
+- more complex scripts deviate from tutorial, due to different tool (weather) and/or discontinued prebuilts. 
 
 
 
