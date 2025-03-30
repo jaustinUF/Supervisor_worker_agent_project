@@ -1,5 +1,4 @@
 # Supervisor agent/worker agent project #
-(in progress 3/3/2025)
 
 <i>Directories are discussed in chronological order of work; detailed notes are in README.md files in each directory.</i>
 
