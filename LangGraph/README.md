@@ -6,9 +6,10 @@ AgentState_design.py:
                 https://chatgpt.com/c/67d634c9-bfd8-800c-a4dd-1904b0dcebd6
         - handles user inputs with no city name.
         - can bind tools to model, but method in tutorial is being depreciated.
-        - note: new binding syntax (model.bind_tools(tools)) requires the code to run the tool
+        - note: new binding syntax (model.bind_tools(tools)) requires code to run the tool
                 https://chatgpt.com/c/67d634c9-bfd8-800c-a4dd-1904b0dcebd6
-(see diagram: C:\Users\jaust\Desktop\langchain_work\LangGraph\diagrams_images\conditional_edge_design.JPG)
+(see diagram: C:\Users\jaust\Desktop\langchain_work\LangGraph\diagrams_images\conditional_edge_design.JPG)  
+
 AgentState_design_tutorial.py(18:34):
         - conditional edge to handle no city name in user input
         - shortcut (17:13): 'typing' and other pakages facilitate appending to 'messages' 
