@@ -1,3 +1,11 @@
+## agent_tests ##
+pdf_query_test (directory)  
+    - agent: pdf_query_agent function in pdf_query_agent_save_db.py  
+    - pdf_query_agent_save_db.py: contains agent function and saves vectorstore  
+    - pdf_query_agent_main.py: calls pdf_query_agent function from pdf_query_agent_save_db.py; does not save vectorstore  
+    - PDF must be in ‘data’ subdirectory  
+    
+wikipedia_test.py : custom tool to search wikipedia
 
 tavily_test.py: search the web 
     - probably needs some work on the prompt.
