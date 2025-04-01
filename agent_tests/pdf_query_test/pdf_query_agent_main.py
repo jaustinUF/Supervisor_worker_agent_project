@@ -1,7 +1,6 @@
-# pdf_query_agent_save_db.py: saves vectorstores so don't need to reprocess
-# pdf_query_agent.py: does not save vectorstores directory
-#   see https://chatgpt.com/c/67cc9148-af3c-800c-a81e-64f7227ae221
-# same ChatGPT session discusses various ways of importing agent.
+# does not save vectorstores directory
+# calls the pdf query agent function in 'pdf_query_agent' in df_query_agent_save_db.py
+#   (see https://chatgpt.com/c/67cc9148-af3c-800c-a81e-64f7227ae221)
 
 from pdf_query_agent_save_db import pdf_query_agent
 
