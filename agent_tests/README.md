@@ -1,18 +1,4 @@
 ## agent_tests ##
-pdf_query_test (directory)  
-    - agent: pdf_query_agent function in pdf_query_agent_save_db.py  
-    - pdf_query_agent_save_db.py: contains agent function, which saves saves vectorstore  
-    - pdf_query_agent_main.py: simple call to pdf_query_agent function from pdf_query_agent_save_db.py
-    - PDF must be in ‘data’ subdirectory  
-    
-wikipedia_test.py : custom tool to search wikipedia
+Test scripts for the three agents, using a try-except block for the invoke to catch/display errors.  
 
-tavily_test.py: search the web 
-    - probably needs some work on the prompt.
-    (last script in 'Supervisor Worker AI System')
-
-agent_test_template.py: " ... supervisor agent, powered by a Large Language Model (LLM), dynamically analyzes user inputs and delegates tasks to the most appropriate worker agents."
-
-Major basis: ChatGPT 'Supervisor Worker AI System'
-https://chatgpt.com/c/67aa66a6-bad4-800c-958d-355e3be646d4
-
+Use the prnt_msg function (print_messages.py) for a readable messages display.
