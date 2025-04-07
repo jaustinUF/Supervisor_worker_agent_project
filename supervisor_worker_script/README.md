@@ -11,6 +11,7 @@ Simple test scripts for each agent are in the agent_test directory
   - tavily_test.py: working  
   - pdf_query_test.py: working
 
+Development code in PyCharm project 'langchain_work':  supervisor_worker_dev directory  
 Based on Quickstart example from https://github.com/langchain-ai/langgraph-supervisor-py
 
 
