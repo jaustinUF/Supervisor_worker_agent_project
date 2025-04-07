@@ -32,12 +32,12 @@
 - Supervisor-worker agent design.docx
 - ChatGPT Deep Research paper
 
-### pdf_deepseek_Rishab ###
-- notes and comments on LangChain document load (PDF) tutorial
-- pdf_query_agents developed from this code (see agent_tests > pdf_query_test directory
-  
+### document_load ###
+- notes and comments on LangChain document load (PDF - pdf_deepseek_tutorial) 
+- initial pdf_query_agents developed from this code; replace by current worker agent pattern (create_react_agent)
+
 ### Beginning LangGraph ###
-- initial work in LangGraph
+- initial tutorial work in LangGraph
 - seven scripts, from very simple to conditional edge and simplified state management
 - more complex scripts deviate from tutorial, due to different tool (weather) and/or discontinued prebuilts. 
 
