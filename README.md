@@ -20,7 +20,7 @@
   - Observation step allows agent to get tool results back
 
 ### agent_tests ###
-- simple agent/tool tests in LangChain
+- simple sets of worker agents/tools for supervisor 
 - tavily_test.py: uses langchain_community tool to search the web
 - wikipedia_test.py: uses custom tool to search Wikipedia
 - pdf_query_test.py: uses LangChain Document loaders function for PDF; PDF (Employee Handbook (Sears).pdf) must be in 'data' subdirectory
