@@ -6,13 +6,12 @@ The 'supervisor_worker_3.py' script uses the supervisor/worker agent pattern (se
 
 Test with appropriate 'content' in 'input_data'; use 'prnt_msg(response['messages'])' to see steps in 'messages.'  
 
-Simple test scripts for each agent are in the agent_test directory  
-  - wikipedia_test.py: working  
-  - tavily_test.py: working  
-  - pdf_query_test.py: working
-
-Development code in PyCharm project 'langchain_work':  supervisor_worker_dev directory  
-Based on Quickstart example from https://github.com/langchain-ai/langgraph-supervisor-py
+Notes
+- for simplicity the PDF query agent keeps the FAISS vector store in memory.
+- pdf_query_agent_test.py is a simple example of saving vector store to disk to save reprocessing time.
+- simple test scripts for each agent are in the agent_test directory: wikipedia_test.py, tavily_test.py, pdf_query_test.py.
+- developed in PyCharm project 'langchain_work':  supervisor_worker_dev directory.
+- based on Quickstart example from https://github.com/langchain-ai/langgraph-supervisor-py
 
 
 
