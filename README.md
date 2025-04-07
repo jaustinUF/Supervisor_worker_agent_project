@@ -5,8 +5,7 @@
 ### react_agents_chris_hay ###
 - discusses and illustrates the thought, action, observation processing of the ReAct agent design
 - use a simple get time tool
-- shows what's going on 'under the hood'
-- compares 
+- shows what's going on 'under the hood' by comparing:  
   - agent/worker structure built using the langchain.agents package (hello-agent-3.py) with
   - agent/worker process created in simple langchain (hello-langchain-6.py)
 
@@ -16,8 +15,8 @@
   - uses ReAct prompt from the langchain hub
 - reAct_AI_agent.py
   - more complicated agent, using two tools ('wikipedia', 'calculate')
-  - Agent (instantiated from class 'Charbot') decides which tool to use
-  - Agent uses Action step to pass tool name/tool input to script
+  - Agent (instantiated from class 'Chatbot') decides which tool to use
+  - Agent uses Action Step to pass tool name/tool input to script
   - Observation step allows agent to get tool results back
 
 ### agent_tests ###
@@ -45,6 +44,4 @@
 ### supervisor_worker_script ###  
 - working supervisor/worker agent script
 - see README.md in directory
-  
-
 
