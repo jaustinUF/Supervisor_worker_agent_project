@@ -1,6 +1,6 @@
 # Supervisor agent/worker agent project #
 
-<i>Directories are discussed in chronological order of work; detailed notes are in README.md files in each directory.</i>
+<i>Directories are discussed in chronological order of work; detailed notes in README.md files in specific directory.</i>
 #### (working supervisor/worker agent pattern script in supervisor_worker_script directory) ####
 ### react_agents_chris_hay ###
 - discusses and illustrates the thought, action, observation processing of the ReAct agent design
