@@ -41,7 +41,7 @@
 - seven scripts, from very simple to conditional edge and simplified state management
 - more complex scripts deviate from tutorial, due to different tool (weather) and/or discontinued prebuilts. 
 
-### supervisor_worker_script ###  
-- working supervisor/worker agent script
+### supervisor_worker_scripts ###  
+- working supervisor/worker agent scripts
 - see README.md in directory
 
