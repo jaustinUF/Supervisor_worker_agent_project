@@ -4,6 +4,8 @@ The 'supervisor_worker_3.py' script uses the supervisor/worker agent pattern (se
 - an agent to search Wikipedia.
 - an agent that can search the web.
 
+The 'supervisor_worker_4.py' script is similar, but with a predictive agent replacing the web search agent. The predictive agent uses a pretrained ML model (iris_model.pkl) to predict Iris flower species from four measurements.
+
 Test with appropriate 'content' in 'input_data'; use 'prnt_msg(response['messages'])' to see steps in 'messages.'  
 
 Notes
