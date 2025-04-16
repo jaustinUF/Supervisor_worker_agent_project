@@ -42,6 +42,6 @@
 - more complex scripts deviate from tutorial, due to different tool (weather) and/or discontinued prebuilts. 
 
 ### supervisor_worker_scripts ###  
-- working supervisor/worker agent scripts
+- working supervisor/worker agent pattern scripts
 - see README.md in directory
 
