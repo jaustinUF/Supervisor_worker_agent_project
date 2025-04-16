@@ -1,4 +1,4 @@
-## Supervisor/worker agent pattern script ##
+## Supervisor/worker agent pattern scripts ##
 The 'supervisor_worker_3.py' script uses the supervisor/worker agent pattern (see link below). It accepts a question or request for information, then selects the appropriate worker agent to respond. The supervisor agent has three agents to choose from:  
 - a query agent that searches for information in an employee handbook in a PDF; the PDF is in the data directory.
 - an agent to search Wikipedia.
