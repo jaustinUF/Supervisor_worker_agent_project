@@ -1,8 +1,8 @@
 
 
 
-The Supervisor Pattern for Gen AI Agent Systems - Vipin Nair
-https://medium.com/aitech/the-supervisor-pattern-for-gen-ai-agent-systems-d1920c0bdbbb
+The Supervisor Pattern for Gen AI Agent Systems - Vipin Nair  
+https://medium.com/aitech/the-supervisor-pattern-for-gen-ai-agent-systems-d1920c0bdbbb  
 Code: https://github.com/vipinn123/Supervisor_Agentic_Pattern
 - this paper uses LangGraph with nodes and edges to represent the workflow
   - "The add_conditional_edges method is used to define transitions from the
